@@ -15,7 +15,7 @@ Operations are maintained within a hardened, service-oriented architecture prior
 
 Sentinel Labs maintains a strict **Safe Harbor** policy for researchers acting in good faith.
 
-For security inquiries or to report a vulnerability, please review our [Responsible Disclosure Policy](SECURITY.md).
+For security inquiries or to report a vulnerability, please review our [Responsible Disclosure Policy](../SECURITY.md).
 
 ## **💼 Contact Information**
 
